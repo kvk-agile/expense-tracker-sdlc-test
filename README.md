@@ -6,7 +6,7 @@ the pull request — with GitHub Actions as the automation layer and a human
 (me) as the person defining requirements and approving merges.
 
 It follows on from a simpler proof-of-concept
-([`todo-app-sdlc-test`](https://github.com/talktokvk-ship-it/todo-app-sdlc-test)),
+([`todo-app-sdlc-test`]((https://kvk-agile.github.io/todo-app-sdlc-test/)),
 which proved the same pipeline end-to-end on a single-file to-do app. This
 repo tests whether the same pipeline holds up on a more realistic,
 relational app with a real database, foreign keys, and business logic.
